@@ -1,0 +1,18 @@
+batch_size: 32
+num_workers: 32
+learning_rate1: 0.0001
+learning_rate2: 0.0001
+Lambda: 5
+
+num_epoch: 20
+resume: 0
+split_id: 2
+
+#csv-stad/example/split/622
+#csv-camelyon16/example/split/622
+#csv-huaxi/example/split/811
+split_dir: 'csv-camelyon16/example/split/622'
+distill_temp: 3
+output_dir: 'AGKD'
+result_dir: 'results/AGKD'
+final_output_dir: /home/zhouyike/AGKD/Han/AGKD/AGKD/run/AGKD/02-10-20-46/3
