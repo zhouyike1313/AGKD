@@ -1,4 +1,4 @@
-name: kddb
+name: agkd
 channels:
   - pytorch
   - conda-forge
