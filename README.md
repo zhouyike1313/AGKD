@@ -40,8 +40,8 @@ The format of the label file of the original dataset can refer to `AGKD/csv-stad
 
 | wsi | bag_id | x | y | type |
 |-----|--------|---|---|------|
-| home/zhouyike/AGKD/zhouyike/AGKD/STAD/TCGA-STAD/7ebda02d-8615-44f3-86b1-5605c9a6b7f3/TCGA-BR-4370-11A-01-BS1.9159a0b8-332d-44c3-96aa-9a9e873e975e.svs | 29 | 18432 | 2048 | 0 |
-| home/zhouyike/AGKD/zhouyike/AGKD/STAD/TCGA-STAD/7ebda02d-8615-44f3-86b1-5605c9a6b7f3/TCGA-BR-4370-11A-01-BS1.9159a0b8-332d-44c3-96aa-9a9e873e975e.svs | 30 | 20480 | 2048 | 0 |
+| ../TCGA-STAD/7ebda02d-8615-44f3-86b1-5605c9a6b7f3/TCGA-BR-4370-11A-01-BS1.9159a0b8-332d-44c3-96aa-9a9e873e975e.svs | 29 | 18432 | 2048 | 0 |
+| ../TCGA-STAD/7ebda02d-8615-44f3-86b1-5605c9a6b7f3/TCGA-BR-4370-11A-01-BS1.9159a0b8-332d-44c3-96aa-9a9e873e975e.svs | 30 | 20480 | 2048 | 0 |
 | .... | ... | ... | ... | ... |
 
 Where, 'wsi' is the absolute path to the '.svs' file
