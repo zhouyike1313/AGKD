@@ -16,7 +16,7 @@ Download the WSI images through their website( [TCGA](https://portal.gdc.cancer.
 cd pre
 python run_preprocess.py
 ```
-The storage format of the original data set can refer to  `AGKD/WSI/example ` : 
+The storage format of the original data set can refer to  `AGKD/WSI/example` : 
 > AGKD/WSI/dataset_name/\*/slide-idx1.svs
 > 
 > ...
