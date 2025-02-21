@@ -70,4 +70,4 @@ The `main.py` file also defaults to testing the model as soon as it is trained.
 cd interpretability
 python top_bag_top_patch.py
 ```
-`"output_dir"/tb_tp/*/predict.csv` records the prediction results on the test set.
+`"output_dir"/tb_tp/*/predict.csv"` records the prediction results on the test set.
