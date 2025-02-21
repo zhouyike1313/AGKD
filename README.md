@@ -61,7 +61,7 @@ python main.py
 ```
 python test.py
 ```
-The `predict.csv` of the directory `"output_dir"` records the prediction results on the test set.
+The `predict.csv` of the directory `output_dir` records the prediction results on the test set.
 The `main.py` file also defaults to testing the model as soon as it is trained.
 
 # Interpretability experiment
